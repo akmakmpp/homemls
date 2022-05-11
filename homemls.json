@@ -4,11 +4,11 @@
        
  
  
-    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
   "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Premier League",
-  "time":"1:30 AM",
-  "date": "May 11",
+  "league":"FA CUP FINAL",
+  "time":"10:15 PM",
+  "date": "May 14",
 
 
 
@@ -46,15 +46,7 @@
   
 },
  
- 
-    {
-  
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"FA CUP FINAL",
-  "time":"10:15 PM",
-  "date": "May 14"
-},
+
     {
   
   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
