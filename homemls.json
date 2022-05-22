@@ -5,10 +5,10 @@
  
  
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-  "league":"Premier League",
-  "time":"9:30 PM",
-  "date": "May 22",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+  "league":"Champion League(Final)",
+  "time":"1:30 AM",
+  "date": "May 28",
 
 
 
@@ -38,21 +38,12 @@
   
   "topsimg" : "https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/photo_2022-03-13_09-20-47-removebg-preview.png",
   "topsname":"Mohamed Salah",
-  "tops" : "22",
+  "tops" : "23",
   "topaimg" : "https://raw.githubusercontent.com/akmakmpp/aungkyaw/gh-pages/photo_2022-03-13_09-20-47-removebg-preview.png",
   "topaname":"Mohamed Salah",
   "topa" : "13",
   "premiertable" : "https://www.premierleague.com/tables"
   
-},
- 
-  {
-  
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-  "league":"Champion League(Final)",
-  "time":"1:30 AM",
-  "date": "May 28"
 }
   
 ]
