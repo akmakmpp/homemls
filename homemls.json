@@ -5,10 +5,10 @@
  
  
     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-  "league":"Champion League(Final)",
-  "time":"1:30 AM",
-  "date": "May 28",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+  "league":"Club Friendlies",
+  "time":"4:30 PM",
+  "date": "July 12",
 
 
 
@@ -44,6 +44,22 @@
   "topa" : "13",
   "premiertable" : "https://www.premierleague.com/tables"
   
-}
+},
+  {
+   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "league":"Club Friendlies",
+  "time":"4:30 PM",
+  "date": "July 15"
+  
+  },
+  {
+  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+  "league":"Community Shield",
+  "time":"10:30 PM",
+  "date": "July 31"
+  
+  }
   
 ]
