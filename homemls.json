@@ -3,11 +3,11 @@
   
        
  
-   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
   "league":"Premier League",
-  "time":"10:00 PM",
-  "date": "Oct 16",
+  "time":"6:00 PM",
+  "date": "Oct 22",
 
 
 
@@ -45,28 +45,6 @@
   
 },
 
-  
-
-   {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-  "league":"Premier League",
-  "time":"1:00 AM",
-  "date": "Oct 20"
-    
-  
-  },
-
-   {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Premier League",
-  "time":"6:00 PM",
-  "date": "Oct 22"
-    
-  
-  },
-
    {
   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
   "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
@@ -83,6 +61,27 @@
   "league":"Champion League",
   "time":"1:15 AM",
   "date": "Oct 30"
+    
+  
+  },
+  
+   {
+  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+  "league":"Champion League",
+  "time":"2:30 PM",
+  "date": "Nov 2"
+    
+  
+  },
+  
+  
+   {
+  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "league":"Premier League",
+  "time":"11:00 PM",
+  "date": "Nov 6"
     
   
   }
