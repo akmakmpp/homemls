@@ -3,11 +3,11 @@
   
        
  
-    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+    "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
   "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Premier League",
-  "time":"6:00 PM",
-  "date": "Oct 22",
+  "league":"Champion League",
+  "time":"1:30 AM",
+  "date": "Oct 27",
 
 
 
@@ -46,16 +46,6 @@
 },
 
    {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Champion League",
-  "time":"1:30 AM",
-  "date": "Oct 27"
-    
-  
-  },
-
-   {
   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
   "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
   "league":"Premier League",
@@ -82,6 +72,15 @@
   "league":"Premier League",
   "time":"11:00 PM",
   "date": "Nov 6"
+    
+  
+  },
+     {
+  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/10170_small.png",
+  "league":"EFL CUP",
+  "time":"2:30 AM",
+  "date": "Nov 10"
     
   
   }
