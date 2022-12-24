@@ -2,11 +2,11 @@
   {
   
        
-   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-  "league":"Club Friendlies",
-  "time":"10:00 PM",
-  "date": "DEC 16",
+     "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+  "league":"Premier League",
+  "time":"12:00 AM",
+  "date": "DEC 27",
 
 
 
@@ -45,26 +45,7 @@
 },
 
      
-    {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"EFL CUP",
-  "time":"2:30 AM",
-  "date": "DEC 23"
-    
-  
-  },
-  
- 
-     {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Premier League",
-  "time":"12:00 AM",
-  "date": "DEC 27"
-    
-  
-  },
+   
    
   
    {
