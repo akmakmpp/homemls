@@ -2,11 +2,11 @@
   {
   
        
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+   "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
   "league":"Premier League",
-  "time":"11:00 PM",
-  "date": "May 6",
+  "time":"1:30 AM",
+  "date": "May 16",
 
 
 
@@ -43,16 +43,7 @@
   "premiertable" : "https://www.premierleague.com/tables"
   
 },
-  
-    {
-  "himg":"https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-  "aimg":"https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-  "league":"Premier League",
-  "time":"1:30 AM",
-  "date": "May 16"
-    
-  
-  },
+
  
   
     {
